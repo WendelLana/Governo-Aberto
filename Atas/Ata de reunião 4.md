@@ -12,7 +12,7 @@
 + Wendel Fernandes de Lana Nº USP 11796722
 
 
-**Descrição:** Descrição: discutimos sobre o texto escrito ao longo da semana, delegando tarefas de correção, além disso definimos os próximos passos para realização da conclusão. Ficou estabelecido que iremos dar um parecer individual do e-SIC e discutir em grupo para um parecer final que será escrito no trabalho sobre as plataformas de eSICs avaliadas.
+**Descrição:** discutimos sobre o texto escrito ao longo da semana, delegando tarefas de correção, além disso definimos os próximos passos para realização da conclusão. Ficou estabelecido que iremos dar um parecer individual do e-SIC e discutir em grupo para um parecer final que será escrito no trabalho sobre as plataformas de eSICs avaliadas.
 
 Dessa forma, estabelecemos como objetivo fazer o comparativos do Sistema Eletrônico de Informação ao Cidadão (eSIC) da USP e Unicamp, escrevendo por fim uma conclusão acerca da acessibilidade de cada um deles.
 
