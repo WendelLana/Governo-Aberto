@@ -1,5 +1,5 @@
-# ATA Nº 5 DE REUNIÃO EM SALA DE AULA 21/06/2023
-**Pauta: Discussão dos resultados**
+# ATA Nº 5 DE REUNIÃO 28/06/2023
+**Pauta: Discussão dos resultados e conclusão**
 
 **Participantes/integrantes do grupo 1:**
 
@@ -12,13 +12,13 @@
 + Wendel Fernandes de Lana Nº USP 11796722
 
 
-**Descrição:** Descrição: discutimos sobre o texto escrito ao longo da semana, delegando tarefas de correção, além disso definimos os próximos passos para realização da conclusão. Ficou estabelecido que iremos dar um parecer individual do e-SIC e discutir em grupo para um parecer final que será escrito no trabalho sobre as plataformas de eSICs avaliadas.
-
-Dessa forma, estabelecemos como objetivo fazer o comparativos do Sistema Eletrônico de Informação ao Cidadão (eSIC) da USP e Unicamp, escrevendo por fim uma conclusão acerca da acessibilidade de cada um deles.
+**Descrição:** nessa última etapa, discutimos sobre tudo que tinhamos escrito, para dar uma conclusão final ao trabalho e delegamos as tarefas de apresentação para cada um do grupo.
 
 **Atividades:** As tarefas foram distribuídas entre os integrantes do grupo, da seguinte
 forma:
 
-● Wendel: elaboração da ATA, definição de tarefas e revisão
+● Wendel: elaboração da ATA, revisão e divisão da apresentação
 
-● Todos: escrita do resultado da avaliação dos e-SICs
+● Ryan e Felipe: escrita dos resultados finais e conclusão
+
+● Todos: apresentação de sua respectiva parte do trabalho
